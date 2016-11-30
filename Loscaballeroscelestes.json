@@ -3,12 +3,12 @@
 "author": "Vick-Okra", 
 "name": "Los Caballeros Celestes", 
 "keyWords": "Dofus,Aguabrial", 
-"version": "1.0.0", 
-"dofusVersion": "2.38", 
+"version": "2.0.0", 
+"dofusVersion": "2.39", 
 "description": "Tema creado para el gremio Los Caballeros Celestes de Aguabrial", 
 "url": "https://github.com/Rayleigh1/Caballeros/blob/master/Loscaballeroscelestes.zip?raw=true",
 "previewUrl" : "https://github.com/Rayleigh1/Caballeros/blob/master/loscaballeroscelestes.jpg?raw=true",
  "creationDate": "12/11/2016", 
-"modificationDate": "12/11/2016"
+"modificationDate": "29/11/2016"
 }
 ]
